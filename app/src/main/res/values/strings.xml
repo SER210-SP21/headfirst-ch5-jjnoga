@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Chapter5Demo</string>
+    <string name="message">Message</string>
+    <string name="to">To</string>
+    <string name="send">Send</string>
+    <string name="title">LinearLayoutDemo</string>
+</resources>
